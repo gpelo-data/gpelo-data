@@ -2,13 +2,15 @@
 
 
 ## Acerca de mí 
-- 👾 Desarrollador y programador de Videojuegos 
+- 📊 Analista de Datos
 - 🎓 Técnico Informático 
+- 🎨 Modelador 3D para videojuegos *(como hobby creativo)*
 
 ## Habilidades y tecnologías
-- Unity
-- Godot
-- C#
+- Python
+- R
+- Excel
+- Power Bi
 - Blender
 - Git y Github
 - Markdown
