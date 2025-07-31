@@ -23,3 +23,9 @@
 Análisis de datos públicos sobre delitos en la Ciudad Autónoma de Buenos Aires. 
 Proyecto enfocado en la visualización, interpretación y modelado de datos para entender patrones delictivos en la ciudad y ayudar en la toma de decisiones.  
 Tecnologías usadas: Python, SQL, Power BI, Excel, entre otras.
+
+
+
+## Contacto  
+📫 Correo: gaston.pelo.contacto@gmail.com  
+💼 Linkedin: [Gastón Peló](https://www.linkedin.com/in/gpelo-data/)
