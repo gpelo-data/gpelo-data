@@ -24,6 +24,10 @@ Análisis de datos públicos sobre delitos en la Ciudad Autónoma de Buenos Aire
 Proyecto enfocado en la visualización, interpretación y modelado de datos para entender patrones delictivos en la ciudad y ayudar en la toma de decisiones.  
 Tecnologías usadas: Python, SQL, Power BI, Excel, entre otras.
 
+## Lenguajes más usados
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpelo-data&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## Contacto  
